@@ -11,6 +11,7 @@
 | [go-oci8](https://github.com/mattn/go-oci8) | 修复bug，合并到主分支 | [Pull Request](https://github.com/mattn/go-oci8/pull/334) | []() |
 | [go-eventsocket](https://github.com/fiorix/go-eventsocket) | 修复bug，合并到主分支 | [Pull Request](https://github.com/fiorix/go-eventsocket/pull/16) | []() |
 | [eslgo](https://github.com/percipia/eslgo) | 修复bug，合并到主分支 | [Pull Request](https://github.com/percipia/eslgo/pull/35) | []() |
+| [go-eventsocket](https://github.com/fiorix/go-eventsocket) | 修复bug，合并到主分支 | [Pull Request](https://github.com/fiorix/go-eventsocket/pull/17) | []() |
 | [go-redis](https://github.com/redis/go-redis) | 修复bug，作者修复，没有采用此pr的方法 | [Pull Request](https://github.com/redis/go-redis/pull/991) | []() |
 | [rtpengine](https://github.com/sipwise/rtpengine) | 修复bug，作者修复，没有采用此pr的方法 | [Pull Request](https://github.com/sipwise/rtpengine/pull/1579) | []() |
 | [apache/rocketmq-client-cpp](https://github.com/apache/rocketmq-client-cpp) | 解释GCC编译器导致的一个bug | []() | [Issue](https://github.com/apache/rocketmq-client-cpp/issues/456) |
