@@ -6,7 +6,7 @@
 
 ## 📊 项目贡献概览
 
-| 项目名称 | 描述 | 我的Pull Requests | 我的Issues |
+| 项目名称 | 贡献描述 | Pull Request | Issue |
 | --- | --- | --- | --- |
 | [xorm](https://github.com/go-xorm/xorm) | 修复bug，合并到主分支 | [Pull Request](https://github.com/go-xorm/xorm/pull/1227) | []() |
 | [go-oci8](https://github.com/mattn/go-oci8) | 修复bug，合并到主分支 | [Pull Request](https://github.com/mattn/go-oci8/pull/334) | []() |
