@@ -1,20 +1,16 @@
-<div align="center">
-    <h1>🌟 我的GitHub贡献 🌟</h1>
-</div>
-
 <br><br>
 
 ## 📊 项目贡献概览
 
-| 项目名称 | 贡献描述 | Pull Request | Issue |
-| --- | --- | --- | --- |
-| [xorm](https://github.com/go-xorm/xorm) | 修复bug，合并到主分支 | [Pull Request](https://github.com/go-xorm/xorm/pull/1227) | []() |
-| [go-oci8](https://github.com/mattn/go-oci8) | 修复bug，合并到主分支 | [Pull Request](https://github.com/mattn/go-oci8/pull/334) | []() |
-| [go-eventsocket](https://github.com/fiorix/go-eventsocket) | 修复bug，合并到主分支 | [Pull Request](https://github.com/fiorix/go-eventsocket/pull/16) | []() |
-| [eslgo](https://github.com/percipia/eslgo) | 修复bug，合并到主分支 | [Pull Request](https://github.com/percipia/eslgo/pull/35) | []() |
-| [go-stomp](https://github.com/go-stomp/stomp) | 新增功能，合并到主分支 | [Pull Request](https://github.com/go-stomp/stomp/pull/143) | []() |
-| [go-redis](https://github.com/redis/go-redis) | 修复bug，作者修复，没有采用此pr的方法 | [Pull Request](https://github.com/redis/go-redis/pull/991) | []() |
-| [rtpengine](https://github.com/sipwise/rtpengine) | 修复bug，作者修复，没有采用此pr的方法 | [Pull Request](https://github.com/sipwise/rtpengine/pull/1579) | []() |
-| [apache/rocketmq-client-cpp](https://github.com/apache/rocketmq-client-cpp) | 解释GCC编译器导致的一个bug | []() | [Issue](https://github.com/apache/rocketmq-client-cpp/issues/456) |
-| [opensips](https://github.com/OpenSIPS/opensips) | 错误提示不友好反馈 | []() | [Issue](https://github.com/OpenSIPS/opensips/pull/3154) |
+| Project  | Pull Request/Issue | Merged |
+| --- | --- | --- |
+| [xorm](https://github.com/go-xorm/xorm) | [Pull Request](https://github.com/go-xorm/xorm/pull/1227) | :heavy_check_mark: |
+| [go-oci8](https://github.com/mattn/go-oci8) | [Pull Request](https://github.com/mattn/go-oci8/pull/334) | :heavy_check_mark: |
+| [go-eventsocket](https://github.com/fiorix/go-eventsocket) | [Pull Request](https://github.com/fiorix/go-eventsocket/pull/16) | :heavy_check_mark: |
+| [eslgo](https://github.com/percipia/eslgo) | [Pull Request](https://github.com/percipia/eslgo/pull/35) | :heavy_check_mark: |
+| [go-stomp](https://github.com/go-stomp/stomp) | [Pull Request](https://github.com/go-stomp/stomp/pull/143) | :heavy_check_mark: |
+| [go-redis](https://github.com/redis/go-redis) | [Pull Request](https://github.com/redis/go-redis/pull/991) | :heavy_multiplication_x: |
+| [rtpengine](https://github.com/sipwise/rtpengine) | [Pull Request](https://github.com/sipwise/rtpengine/pull/1579) | :heavy_multiplication_x: |
+| [apache/rocketmq-client-cpp](https://github.com/apache/rocketmq-client-cpp) | [Issue](https://github.com/apache/rocketmq-client-cpp/issues/456) | []() |
+| [opensips](https://github.com/OpenSIPS/opensips) | [Issue](https://github.com/OpenSIPS/opensips/pull/3154) | []() |
 
