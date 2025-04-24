@@ -13,4 +13,5 @@
 | [rtpengine](https://github.com/sipwise/rtpengine) | [Pull Request](https://github.com/sipwise/rtpengine/pull/1579) | :heavy_multiplication_x: |
 | [apache/rocketmq-client-cpp](https://github.com/apache/rocketmq-client-cpp) | [Issue](https://github.com/apache/rocketmq-client-cpp/issues/456) | []() |
 | [opensips](https://github.com/OpenSIPS/opensips) | [Issue](https://github.com/OpenSIPS/opensips/pull/3154) | []() |
+| [mcp-golang](https://github.com/metoro-io/mcp-golang) | [Issue](https://github.com/metoro-io/mcp-golang/pull/91) | :question: |
 
