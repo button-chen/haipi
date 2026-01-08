@@ -14,5 +14,6 @@
 | [apache/rocketmq-client-cpp](https://github.com/apache/rocketmq-client-cpp) | ... | [Issue](https://github.com/apache/rocketmq-client-cpp/issues/456) | []() |
 | [opensips](https://github.com/OpenSIPS/opensips) | ... | [Issue](https://github.com/OpenSIPS/opensips/pull/3154) | []() |
 | [mcp-golang](https://github.com/metoro-io/mcp-golang) | 800+ | [Pull Request](https://github.com/metoro-io/mcp-golang/pull/91) | :question: |
-| [mcp-go](https://github.com/mark3labs/mcp-go) | 5k+ | [Pull Request](https://github.com/mark3labs/mcp-go/pull/304) | :heavy_check_mark: |
+| [mcp-go(bug1)](https://github.com/mark3labs/mcp-go) | 7k+ | [Pull Request](https://github.com/mark3labs/mcp-go/pull/304) | :heavy_check_mark: |
+| [mcp-go(bug2)](https://github.com/mark3labs/mcp-go) | 7k+ | [Pull Request](https://github.com/mark3labs/mcp-go/pull/686) | :heavy_check_mark: |
 
